@@ -125,9 +125,7 @@ Record the actual predictions produced by predict.py.
 |---|---|
 |  Win a free mobile phone. Click here to claim your reward! |NOT SPAM |
 |WINNER!! You have been selected to receive a FREE prize reward. Call 09061701461 now to claim your cash prize. Valid for 12 hours only!|  SPAM |
-|FREE entry in 2 a weekly competition to win FA Cup final tickets. Text WIN to 80086 now! | Add actual prediction |
-| Add your tested message | Add actual prediction |
-| Add your tested message | Add actual prediction |
+|FREE entry in 2 a weekly competition to win FA Cup final tickets. Text WIN to 80086 now! |NOT SPAM|
 
 These examples demonstrate inference on custom messages.
 They are separate from held-out test-set evaluation.
